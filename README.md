@@ -1,6 +1,6 @@
 # Capstone Project: Find Best Neighborhood to Fight Pandemic in NYC
 
-It repository contains codes and jupyter notebook of this project. This also contains report and intermediate files generate in between.
+This repository contains codes and jupyter notebook of this project. This also contains report and intermediate files generate in between.
 
 ## Useful links for this project.
 
